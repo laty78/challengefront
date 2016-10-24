@@ -43,3 +43,78 @@ li a img{
   
      
   }
+.fall{
+   
+    margin:35px;
+   text-align: center;
+padding-top: 220px;
+    padding-left: 350px;
+    padding-right: 400px;  
+}
+.falltext{
+    font-family : Times New Roman, Times, serif;
+    color: black;
+  font-weight: bold;
+ font-size: 55px;
+  background-color: white;
+    opacity: 0.5;
+    height: 150px;
+    width: 500px;
+    padding-top: 15px;
+
+}
+
+.fallbut{
+   margin-top: 20px;
+    color: white;
+     background-color:rgb(83, 81, 81) ;
+  width: 200px;
+}
+/*div free*/
+.free{
+    padding:0;
+    margin:0;
+margin-bottom: 15px;
+height: 45px;
+background-color: gainsboro;
+   opacity:0.9;
+    color: black!important;
+    letter-spacing: 0.3em;
+   
+    
+}
+.freeship{
+    padding: 15px;
+    color:black!important;
+     font-size: 13px;
+}
+
+/*container*/
+
+.container{
+    margin-left:55px;
+  padding-left: 150px;
+    padding-right: 125px;
+   
+    text-align: center;
+    margin-bottom: 70px;
+}
+.year{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 36px;
+   font-family: Times New Roman, Times, serif;
+    
+}
+.trait
+{
+background-color: black;
+height: 1pt;
+width: 30px;
+margin-left: 435px;
+    
+}
+h4{
+    margin-bottom: 50px;
+}
+
