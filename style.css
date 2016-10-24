@@ -117,4 +117,34 @@ margin-left: 435px;
 h4{
     margin-bottom: 50px;
 }
+/*section year + image*/
+section{
+    
+    margin-top: 150px;
+margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    
+}
+.image{
+    width: 295px; 
+    height: 350px;  
+}
+
+.sac{
+    width: 295px;
+    height: 410px;
+   margin-left: 5px;
+   
+}
+
+figure {
+	width: 295px;
+	height: 350px;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+    position: relative;
+}
 
