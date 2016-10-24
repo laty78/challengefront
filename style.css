@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+   font-family: 'Raleway', sans-serif;
+}  
+    
+  /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+     
+    height: 85px;
+      margin: 0;
+        background-color: rgb(83, 81, 81);
+        border: 0;
+      
+    }
+.navbar-brand{
+    /*padding:35px 35px 35px 35px;*/
+  color:gainsboro!important;
+   
+    margin: 20px;
+    margin-left: 150px!important;
+    letter-spacing: 0.2em;
+    font-size: 20px;
+    font-size-adjust: auto;
+    font-weight: bold;
+   
+   
+}
