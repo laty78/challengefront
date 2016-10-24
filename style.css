@@ -3,7 +3,7 @@ body{
    font-family: 'Raleway', sans-serif;
 }  
     
-  /* Remove the navbar's default margin-bottom and rounded borders */ 
+ 
     .navbar {
      
     height: 85px;
@@ -13,7 +13,7 @@ body{
       
     }
 .navbar-brand{
-    /*padding:35px 35px 35px 35px;*/
+  
   color:gainsboro!important;
    
     margin: 20px;
