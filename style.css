@@ -46,8 +46,8 @@ li .zero {
 	margin-bottom: -35px;
 	background-image: url(images/84770f_b5b78cd83b6342199b7370a2ba6b9e06.jpg);
 	background-repeat: no-repeat;
-	background-size: auto auto;
-	background-position: center center;
+	background-size: cover;
+	background-position: center;
 	background-blend-mode: hard-light;
 }
 
